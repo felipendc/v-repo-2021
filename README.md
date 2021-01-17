@@ -3,7 +3,7 @@
 You can add:<br />
 
 <pre>
-[vicyos-repo]
+[v_twenty_repo]
 SigLevel = Optional TrustedOnly 
 Server = https://felipendc.github.io/$repo/$arch
 </pre>
